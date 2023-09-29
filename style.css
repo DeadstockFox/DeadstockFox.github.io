@@ -59,10 +59,11 @@ h4{
 .dates2 {
   display:inline-block;
   width:220px;
-  height:35;
+  height:40;
   border:1px solid; 
   text-height:20px;
   text-align: center;
+  vertical-align: center;
   
 }
  .body4{
